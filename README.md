@@ -1,5 +1,7 @@
 complete English translation of the 2008 cancelled horror game 
+
 big thanks for helping me complete the translation of this game to [Mary]([https://github.com/Androclast))
+
 video demo
 https://www.youtube.com/watch?v=iPVIR2LMjaY
 
